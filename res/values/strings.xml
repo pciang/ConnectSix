@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Connect Six</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="player1Piece">X</string>
+    <string name="player2Piece">O</string>
+    <string name="emptyGrid"> </string>
+    <string name="player1Turn">Player 1\'s turn.</string>
+    <string name="player2Turn">Player 2\'s turn.</string>
+    <string name="player1Win">Player 1 wins.</string>
+    <string name="player2Win">Player 2 wins.</string>
+    <string name="resetButton">Reset</string>
+    <string name="undoButton">Undo</string>
+    <string name="helpButton">Help</string>
+    <string name="copyright">github.com/pciang</string>
+
+</resources>
